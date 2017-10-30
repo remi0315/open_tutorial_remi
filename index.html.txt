@@ -1,4 +1,7 @@
 <html>  
-	<body>commit</body>
-
+	<body>commit
+	
+	<li>깃이란 무엇인가</li>
+	</body>
+	
 </html>
