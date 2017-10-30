@@ -1,8 +1,14 @@
 <html>  
+<<<<<<< HEAD
 	<body>commit
 	
 	<li>±êÀÌ¶õ ¹«¾ùÀÎ°¡</li>
 	<li>¹öÀü~~~</li>
 	</body>
 	
+=======
+	<head>³È³È</head>
+	<body></body>
+
+>>>>>>> ì‹¤í—˜
 </html>
