@@ -2,6 +2,7 @@
 	<body>commit
 	
 	<li>깃이란 무엇인가</li>
+	<li>버전~~~</li>
 	</body>
 	
 </html>
