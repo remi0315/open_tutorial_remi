@@ -18,5 +18,10 @@
 <ul>푸시 또 추가</ul>
 <li>푸시.레미</li>
 <li>conflict_레미</li>
+<<<<<<< Updated upstream
 <li>ggg</li>
+=======
+<li>st</li>
+<li>stst</li>
+>>>>>>> Stashed changes
 </html>
